@@ -3,7 +3,7 @@
 ---
 
 <!-- .slide: data-auto-animate -->
-### Display
+## Display
 ```css [1]
 .dog { display: inline; }
 .dog { display: block;  }
@@ -15,7 +15,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Display
+## Display
 ```css [2]
 .dog { display: inline; }
 .dog { display: block;  }
@@ -27,7 +27,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Display
+## Display
 ```css [3]
 .dog { display: inline; }
 .dog { display: block;  }
@@ -39,7 +39,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Display
+## Display
 ```css [4]
 .dog { display: inline; }
 .dog { display: block;  }
@@ -51,7 +51,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Display
+## Display
 ```css [5]
 .dog { display: inline; }
 .dog { display: block;  }
@@ -63,7 +63,7 @@
 ---
 
 <!-- .slide: data-auto-animate -->
-### Position
+## Position
 ```css [1]
 .dog { position: static;   }
 .dog { position: relative; }
@@ -75,7 +75,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Position
+## Position
 ```css [2]
 .dog { position: static;   }
 .dog { position: relative; }
@@ -87,7 +87,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Position
+## Position
 ```css [3]
 .dog { position: static;   }
 .dog { position: relative; }
@@ -99,7 +99,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Position
+## Position
 ```css [4]
 .dog { position: static;   }
 .dog { position: relative; }
@@ -111,7 +111,7 @@
 --
 
 <!-- .slide: data-auto-animate -->
-### Position
+## Position
 ```css [5]
 .dog { position: static;   }
 .dog { position: relative; }
@@ -122,4 +122,4 @@
 
 ---
 
-### Box model
+## Box model
