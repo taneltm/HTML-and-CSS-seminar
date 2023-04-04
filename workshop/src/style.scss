@@ -1,0 +1,30 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #242424;
+}
+
+h1 {
+  font-size: 3.2em;
+  background:
+    -webkit-linear-gradient(
+      -90deg,
+      transparent 10%, /* Reddish-brown */
+      #EEEEFF88 60%, /* White */
+      transparent 62%,
+    ),
+    -webkit-linear-gradient(
+      -15deg,
+      #D2691E, /* Reddish-brown */
+      #8B4513, /* Sable */
+      #F5DEB3, /* Fawn */
+      #CD853F, /* Tan */
+      #FFFFFF, /* White */
+      #B22222, /* Dark red */
+      #A0522D, /* Sienna */
+      #BC8F8F, /* Rosy brown */
+    )
+  ;
+  background-size: 370px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
