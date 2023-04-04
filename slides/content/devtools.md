@@ -1,6 +1,5 @@
 # Developer Tools
 
-Note: Test
 ---
 
 ## Style Changes
