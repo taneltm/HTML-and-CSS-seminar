@@ -1,6 +1,8 @@
 <!-- .slide: data-background="DarkSlateBlue" -->
 # HTML and CSS seminar
 
+---
+
 Brought to you by...
 - Tanel Metsar
 - Sten Anderson
@@ -13,7 +15,15 @@ Notes:
 
 ---
 
-# Topics
+Questions in the chat
+
+Note:
+- Also, due to the lack of time, write your questions in the chat
+- We'll check the questions after the presentation
+- But I'm sure most questions would be answered by others by then
+---
+
+## Topics
 - Semantic HTML
 - Variables
 - Responsiveness
