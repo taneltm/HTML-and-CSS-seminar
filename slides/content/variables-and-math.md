@@ -1,6 +1,6 @@
 # Math and variables
 
----
+--
 
 ## CSS Units and data types
 
@@ -50,7 +50,7 @@ A single data type can be expressed by several units or a combination of differe
 
 Let's come back to the colors a bit later...
 
----
+--
 
 ## Math functions
 - `min`, `max`, `clamp`, `calc`
@@ -62,7 +62,8 @@ Notes:
 - Trigonometric functions
 - Experimental functions
 
----
+--
+
 <!-- .slide: data-auto-animate -->
 ## Math basics
 ```css [1]
@@ -142,7 +143,7 @@ Haven't seen it used much outside game development, but it's very useful for the
 
 It combines min and max to constrain the middle value between the minimum and maximum values.
 
----
+--
 
 <!-- .slide: data-auto-animate -->
 ## Variables
