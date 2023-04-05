@@ -339,3 +339,14 @@ Notes:
 - It might be useful to just pick one and stick with it
 - Mostly that's border-box, as it's easier to work with
 - Most CSS resets implement this
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Layout
+
+#### Takeaways:
+- `box-sizing: border-box` everything, unless otherwise required.
+- When using ```position: absolute```, make sure the ancestor you want to position it relative to 
+has ```position: relative``` set on it, and at least 2 position properties (top/right/bottom/left).
+- Take the time to properly learn flex and grid, they are the most important tools for building modern layouts.
