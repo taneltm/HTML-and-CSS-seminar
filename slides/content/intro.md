@@ -10,7 +10,7 @@ Brought to you by...
 
 Notes:
 - My name is Tanel Metsar
-- (Sten's greeting)
+- My name is Sten Anderson
 - And due to the lack of time, ChatGPT!
 
 ---
@@ -32,8 +32,15 @@ Note:
 - ...
 
 Notes:
-- Too many topics
-- We might have to skip some slides
-- But the slides are available in GitHub
-  - Link later
-- So, let's get started!
+- It's a huge subject, might have to skip some slides, but link later
+- The main idea behind this presentation is to:
+  - Give a refresher on some basic topics, especially ones people tend to struggle with
+  - Provide good practices and general mindset things regarding frontend dev
+  - Introduce some useful new CSS features
+  - Practice!
+- Frontend dev is quite subjective
+  - Lots of freedom, double-edged sword
+  - Can be hard to enforce practices, even within one team
+  - Different projects have different needs
+  - People tend to not pay attention to it, but poor planning leads to issues later
+- Let's get started!

@@ -2,6 +2,7 @@
 
 Note:
 - Let's start with a bit of history, not too distant.
+- Won't go too deep into it because most people don't care anyway.
 - Just a quick overview of what happened between HTML4 and HTML5.
 
 ---
