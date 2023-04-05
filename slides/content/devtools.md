@@ -1,28 +1,29 @@
 # Developer Tools
 
----
+--
 
-## Style Changes
-- Inspecting and tracking style changes
-- Comparing applied changes
-- Reverting and reapplying changes
-- Exporting changes
+![Live](../assets/img/bill-o-reilly-do-it-live.gif)
 
-Note:
-- Now, let's discuss the "Style Changes" tab in the browser Developer Tools.
-  - This powerful feature allows you to inspect, track, and manage any changes you make to the styles of an element while working in the browser.
+--
 
----
+Pray to the demo gods
 
-## Inspecting and Tracking Style Changes
+Notes:
+Let's see how the browser developer tools can help us debug HTML and CSS issues
 
-- Locate the "Style Changes" tab in the Elements panel
-- Automatically logs changes made to element styles
-- Highlights modified properties
-- Tracks changes across multiple elements
-
-Note:
-- To access the "Style Changes" tab, Developer Tools -> Elements panel -> "Style Changes" tab.
-- This tab automatically logs any changes you make to the styles of an element in the "Styles" tab.
-- Modified properties are highlighted.
-- Additionally, the "Style Changes" tab can track changes across multiple elements, providing a comprehensive overview of all adjustments made during your debugging session.
+1. DOM manipulations
+  - Rewriting HTML
+  - Moving elements around
+  - Deleting
+  - `$0` element reference
+2. Use the color picker
+3. Debug pseudostates and toggle classes
+4. Inspect flexbox
+5. Inspect variables
+6. Computed tab
+  - Filtering
+  - Show all and group
+  - Rendered font
+7. Properties tab
+8. Making style changes
+9. Tracking style changes
