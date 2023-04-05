@@ -349,4 +349,5 @@ Notes:
 - `box-sizing: border-box` everything, unless otherwise required.
 - When using ```position: absolute```, make sure the ancestor you want to position it relative to 
 has ```position: relative``` set on it, and at least 2 position properties (top/right/bottom/left).
+- Positioning needs to be applied if you want to use z-index.
 - Take the time to properly learn flex and grid, they are the most important tools for building modern layouts.
