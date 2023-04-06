@@ -1,0 +1,15 @@
+:root {
+    font-family: var(--font-family-primary);
+    font-size: var(--font-size-body-medium);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-brand-dark-blue);
+    background-color: var(--color-gray-100);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}

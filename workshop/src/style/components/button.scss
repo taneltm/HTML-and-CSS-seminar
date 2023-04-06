@@ -1,0 +1,21 @@
+.button {
+    appearance: none;
+    display: inline-block;
+    position: relative;
+    border: 0;
+    border-radius: var(--border-radius-primary);
+    text-decoration: none;
+    color: var(--color-white);
+    font-weight: var(--font-weight-medium);
+    background-color: var(--color-brand-orange);
+    padding: 13px 28px;
+    min-height: 44px;
+    line-height: 1;
+    cursor: pointer;
+    transition: opacity var(--transition-time-primary) ease-out;
+
+    &:hover {
+        opacity: 0.5;
+        transition: opacity var(--transition-time-primary) ease-out;
+    }
+}

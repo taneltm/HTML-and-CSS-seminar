@@ -1,0 +1,64 @@
+:root {
+    // Brand colors
+    --color-brand-dark-blue: #002653;
+    --color-brand-orange: #F67870;
+
+    // Neutral colors
+    --color-white: #FFFFFF;
+    --color-gray-100: #F6F7FA;
+    --color-gray-200: #EEEFF4;
+    --color-gray-300: #D9DBE1;
+    --color-gray-400: #949BB5;
+    --color-gray-500: #525870;
+    --color-gray-600: #222430;
+    --color-black: #000000;
+
+    // Activity category colors
+    --color-activity-walk: #3FDB8D;
+    --color-activity-feed: #F67870;
+    --color-activity-competition: #F6E65A;
+    --color-activity-groom: #D984E7;
+    --color-activity-training: #5AD1F6;
+
+    // Color aliases
+    --color-background: var(--color-white);
+
+    // Effects
+    --shadow-primary: 0px 12px 36px -4px rgba(16, 24, 40, 0.08);
+    --border-radius-primary: 8px;
+
+    // Typography
+    --font-family-primary: 'Poppins', Helvetica, Arial, sans-serif;
+    --font-size-h1: 48px;
+    --font-size-h2: 36px;
+    --font-size-h3: 24px;
+    --font-size-h4: 18px;
+    --font-size-body-medium: 16px;
+    --font-size-body-small: 14px;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+
+    // Breakpoints
+    --breakpoint-mobile: 560px;
+    --breakpoint-tablet: 960px;
+
+    // Units
+    --unit-base: 30px;
+
+    // Transition
+    --transition-time-primary: 1s;
+    
+}
+
+// Mixins
+@mixin below-mobile {
+	@media (width < var(--breakpoint-mobile)) {
+		@content;
+	}
+}
+
+@mixin below-tablet {
+	@media (width < var(--breakpoint-tablet)) {
+		@content;
+	}
+}
