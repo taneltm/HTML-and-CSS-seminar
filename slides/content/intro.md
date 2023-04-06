@@ -1,6 +1,9 @@
 <!-- .slide: data-background="DarkSlateBlue" -->
 # HTML and CSS seminar
 
+Note:
+- Start the recording
+
 ---
 
 Brought to you by...
